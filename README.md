@@ -1,16 +1,22 @@
-## Hi there 👋
+### 🛠 Tech Arsenal
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
 
-<!--
-**Omii-004/Omii-004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Layer | Stack |
+| :--- | :--- |
+| **Languages** | Python, C++, Java |
+| **Backend** | Django, DRF, Supabase |
+| **Systems** | Linux, AOSP |
+| **Dev Tools** | Git, GitHub, VS Code, Neovim |
+| **Deployment** | Docker, Render |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Learning Focus
+* **AI + Backend integration**
+* **CUDA & parallel computing**
+* **Scalable backend systems**
