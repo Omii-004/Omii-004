@@ -110,5 +110,5 @@
 
 <div align="center">
   <br>
-  <img src="keep-building.png" alt="Keep Building" width="100%" />
+  <img src="keep-building-banner.png" alt="Keep Building" width="100%" />
 </div>
