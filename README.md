@@ -20,10 +20,6 @@
 </div>
 <br>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Omii-04.Omii-04&left_text=Profile%20Views&left_color=%231a1a1a&right_color=%231f6feb" alt="Profile Views" />
-</p>
-
 ---
 
 <div align="center">
