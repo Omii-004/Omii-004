@@ -71,7 +71,7 @@
 </p>
 
 * **AI + Backend integration**
-* **CUDA & parallel computing**
+* **High-Performance Computing**
 * **Scalable backend systems**
 
 ---
